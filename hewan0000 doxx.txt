@@ -1,0 +1,19 @@
+@hewan0000 on instagram's dox 
+reason for dox: child grooming and pedophile
+also availible on doxbin
+https://doxbin.org/upload/hewan0000oninstagramsdox
+ip: "103.102.157.142" 
+city: "Karachi" 
+region: "Sindh" 
+country: "PK"
+ loc: "24.8608,67.0104" 
+org: "AS58895 Ebone Network (PVT.) Limited" 
+postal: "59201" 
+timezone: "Asia/Karachi" 
+asn: Object 
+asn: "AS58895" 
+name: "Ebone Network (PVT.) Limited" 
+domain: "ebonenet.com" 
+route: "103.102.157.0/24"
+ type: "isp" 
+company: Object
